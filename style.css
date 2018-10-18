@@ -1,0 +1,328 @@
+html, body, head {
+	margin: 0;
+	padding: 0;
+}
+.lol {
+	background-image: url(img3.jpg);
+	width: 100%;
+	height: 690px;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: absolute;
+}
+.menu{
+	left: 7%;
+	width: 100%;
+	position: fixed;
+	color: #fff;
+	z-index: 99;
+}
+.menu-background{
+	background-color: rgba(0, 0, 0, 0.5);
+	width: 100%;
+	height: 70px;
+	position: fixed;
+	z-index: 99;
+}
+.nav {
+	color: #fff;
+	list-style-type: none;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	font-size: 22px;
+	margin-left: 21px !important;
+}
+/*.nav-link{
+	color: #000;
+	margin: 0;
+}
+.nav-link:hover{
+	color: #000;
+}*/
+a {
+	text-decoration: none;
+}
+.h1-6{
+	top: 135px;
+	font-size: 60px;
+	left: 44%;
+	color: red;
+}
+.h1-4{
+	top: 135px;
+	font-size: 60px;
+	left: 44.3%;
+	color: #009999;
+}
+.ror {
+	margin: 0;
+	font-size: 17px;
+	top: 400px;
+	color: #fff;
+	left: 22%;
+	position: absolute;
+}
+.border{
+	text-decoration: none;
+	margin: 0;
+	padding: 1em;
+  	font-size: 2em;
+  	text-align: center;
+  	background: #FFF5D7;
+ 	opacity: .5;
+ 	color: #000;
+
+}
+.block_two{
+	background-image: url(img7.jpg);
+	width: 100%;
+	height: 700px;
+	position: relative;
+	top: 657px;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.h1-2{
+	font-size: 41px;
+	color: red;
+	left: 25%;
+}
+.h1-1{
+	font-size: 41px;
+	color: #009999;
+	left: 24.8%;
+	top: 1px;
+}
+.keek{
+	margin: 0;
+	font-size: 35px;
+	top: 300px;
+	left: 10%;
+	position: absolute;
+}
+.kek{
+	text-decoration: none;
+	color: #000;
+	padding: 1em;
+  	font-size: 2em;
+  	text-align: center;
+  	background: #FFF5D7;
+ 	opacity: .5;
+ 	font-size: 40px;
+}
+.kek:hover{
+	color: red; 
+}
+.border:hover{
+	color: #000;
+}
+.block_three{
+	background-image: url(img4.jpg);
+	width: 100%;
+	height: 700px;
+	position:relative;
+	top:640px;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.look{
+	font-size: 28px;
+	color: #fff;
+	position: relative;
+	top: 7em;
+	left: 15%;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	position: absolute;
+}
+.at_me {
+	font-size: 21px;
+	color: #fff;
+	position: relative;
+	top: 11em;
+	left: 15%;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+}
+.now{
+	font-size: 45px;
+	color: #fff;
+	position: relative;
+	top: 11em;
+	left: 15%;
+	position: absolute;
+}
+.lil_peep{
+	background-color: #fff;
+	width: 100%;
+	height: 660px;
+	position: relative;
+	top: 640px;
+	background-attachment: fixed;
+}
+h1{
+	font-size: 45px;
+	color: red;
+	position: absolute;
+	left: 45%;
+}
+.h1{
+	font-size: 45px;
+	color: #009999;
+	position: absolute;
+	left: 44.8%;
+	top: 1px;
+}
+.block-one{
+	background-color: #009999;
+	width: 16%;
+	height: 67px;
+	top: 27em;
+	left: 8%;
+	position: absolute;
+}
+.text-one{
+	color: #fff;
+	font-size: 22px;
+	position: relative;
+	left: 30%;
+}
+a{
+	text-decoration: none;
+	color: #fff;
+}
+.xxx{
+	color: #fff;
+	font-size: 22px;
+	position: relative;
+	left: 30%;
+}
+.block-two{
+	background-color: #009999;
+	width: 16%;
+	height: 67px;
+	top: 27em;
+	left: 31%;
+	position: absolute;
+}
+.block-three{
+	background-color: #009999;
+	width: 16%;
+	height: 67px;
+	top: 27em;
+	left: 54%;
+	position: absolute;
+}
+.xxxten{
+	font-size: 22px;
+	color: #fff;
+	position: relative;
+	left: 24%;
+}
+.xxxtentacion{
+	background-color: #009999;
+	width: 16%;
+	height: 67px;
+	top: 27em;
+	left: 78%;
+	position: absolute;
+}
+.fan_xxxt{
+	font-size: 22px;
+	color: #fff;
+	position: relative;
+	left: 30%;
+}
+.fire-one{
+	font-size: 19px;
+	position: relative;
+	left: 14%;
+}
+.fire-two{
+	font-size: 19px;
+	position: relative;
+	left: 4.5%;
+}
+.fire-three{
+	font-size: 19px;
+	position: relative;
+	left: 9%;
+}
+.fire-four{
+	font-size: 19px;
+	position: relative;
+	left: 21%;
+}
+.png-one{
+	background-image: url(png1.png);
+	position: absolute;
+	width: 19%;
+	height: 200px;
+	top: 2250px;
+	left: 11.7%;
+	background-repeat: no-repeat;
+}
+.png-two{
+	background-image: url(like1.png);
+	width: 22%;
+	height: 220px;
+	top: 2270px;
+	left: 34%;
+	position: absolute;
+	background-repeat: no-repeat;	
+	background-size: 50%;
+}
+.png-three{
+	background-image: url(bone.png);
+	background-repeat: no-repeat;
+	width: 22%;
+	height: 220px;
+	top: 2280px;
+	left: 54.7%;
+	position: absolute;
+}
+.png-four{
+	background-image: url(money5.png);
+	background-repeat: no-repeat;
+	width: 15%;
+	height: 220px;
+	top: 2260px;
+	left:80%;
+	position: absolute;
+	background-size: 80%;
+}
+.footer{
+	background-color: #2d2c2a;
+	width: 100%;
+	height: 630px;
+	top: 40em;
+	position: relative;
+}
+.end{
+	background-color: #2d2c2a;
+	background-image: url(img9.jpg);
+	width: 80%;
+	height: 550px;
+	position: absolute;
+	background-repeat: no-repeat;
+	left: 9.7%;
+}
+.number{
+	position: relative;
+	left: 45%;
+	font-size: 19px;
+	color: #fff;
+	top: 530px;
+	position: absolute;	
+}
+.gmail{
+	position: relative;
+	left: 42%;
+	font-size: 19px;
+	color: #fff;
+	top: 555px;
+	position: absolute;
+}
